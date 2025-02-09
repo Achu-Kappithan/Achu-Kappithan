@@ -30,7 +30,10 @@ A full-featured e-commerce platform for cricket equipment, including:
 💬 Feel free to reach out for collaborations, tech discussions, or networking!  
 
 📧 **Email**: [achu.k.baiju@gmail.com](mailto:achu.k.baiju@gmail.com)  
-🌐 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/achu-baiju-570314313/)  
+🌐 **LinkedIn**:  
+<a href="https://www.linkedin.com/in/achu-baiju-570314313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+</a>
 
 ---
 
