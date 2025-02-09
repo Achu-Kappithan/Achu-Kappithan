@@ -1,43 +1,40 @@
 # 👋 About Me
 
 ## 🚀 Introduction
-Hello! I'm a passionate **full-stack web developer** with expertise in **Node.js, Express.js, MongoDB, and JavaScript**. I love building scalable web applications, optimizing backend logic, and learning new technologies.
+Hello! I'm a passionate **Full-Stack Web Developer** with expertise in **Node.js, Express.js, MongoDB, and JavaScript**. I love building scalable web applications, optimizing backend logic, and continuously learning new technologies.
 
 ---
 
 ## 💡 Skills & Interests
-- 🔹 **Web Development**: JavaScript, Node.js, Express.js, EJS, MVC Pattern
-- 🔹 **Databases**: MongoDB (Aggregation, Queries)
-- 🔹 **Frontend**: HTML, CSS, JavaScript
-- 🔹 **Backend**: REST APIs, Authentication, Sessions, Multer (File Uploads)
-- 🔹 **Tech Interests**: DNA Computing, VPNs, Cybersecurity, Graph Algorithms
-- 🔹 **Project Experience**:  
-  ✅ E-commerce site for **Cricket Accessories** (User & Admin Panels)  
-  ✅ OTP Authentication, Session Management  
-  ✅ Product Management System (Categories, Brands, Cart Functionality)
+- 🔹 **Web Development**: JavaScript, Node.js, Express.js, EJS, MVC Pattern  
+- 🔹 **Databases**: MongoDB (Aggregation, Queries)  
+- 🔹 **Frontend**: HTML, CSS, JavaScript  
+- 🔹 **Backend**: REST APIs, Authentication, Sessions, Multer (File Uploads)  
+- 🔹 **Version Control**: Git, GitHub  
+- 🔹 **Deployment & Cloud**: AWS, Vercel, Netlify (Optional)  
+- 🔹 **Testing**: Jest, Mocha (Optional)  
 
 ---
 
-## 🎯 Current Learning Goals
-- 📌 **Advanced MongoDB Aggregations**  
-- 📌 **Optimizing Web Performance & Security**  
-- 📌 **Graph Algorithms & Data Structures**  
-- 📌 **Improving Communication & Presentation Skills**  
+## 🏆 Project Experience  
+### ✅ **E-commerce Site for Cricket Accessories**  
+A full-featured e-commerce platform for cricket equipment, including:  
+- **User Panel**: Product browsing, cart management, authentication, order processing.  
+- **Admin Panel**: Product management, user control, coupon handling, and dashboard analytics.  
+- **Tech Stack**: Node.js, Express.js, MongoDB, EJS, Bootstrap, Multer, Sessions.  
+- **Challenges & Solutions**: Implemented efficient **search functionality** and **cart management logic** to enhance UX.  
 
 ---
 
-## 📚 Recent Activities
-- 🎤 Preparing **Tech Seminars** on **VPNs & DNA Computing**  
-- 🖥️ Building a **Cricket E-commerce Project**  
-- 🔎 Exploring **Express.js Middleware & Error Handling**  
-- ⌨️ Practicing **Typing & Communication** for Professional Growth  
-
----
-
-## 📞 Let's Connect!
+## 📞 Let's Connect!  
 💬 Feel free to reach out for collaborations, tech discussions, or networking!  
 
-📧 **Email**: []  
-🌐 **Linked In**: [(https://www.linkedin.com/in/achu-baiju-570314313/)]
+📧 **Email**: [achu.k.baiju@gmail.com](mailto:achu.k.baiju@gmail.com)  
+🌐 **LinkedIn**: [Achu Baiju](https://www.linkedin.com/in/achu-baiju-570314313/)  
 
-🚀 Keep Learning, Keep Growing!
+---
+
+## 📊 GitHub Stats *(Optional)*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+🚀 Keep Learning, Keep Growing!  
