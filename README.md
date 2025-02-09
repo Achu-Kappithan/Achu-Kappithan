@@ -37,7 +37,7 @@ Hello! I'm a passionate **full-stack web developer** with expertise in **Node.js
 ## 📞 Let's Connect!
 💬 Feel free to reach out for collaborations, tech discussions, or networking!  
 
-📧 **Email**: [Your Email]  
-🌐 **Portfolio**: [Your Website/LinkedIn]  
+📧 **Email**: []  
+🌐 **Linked In**: [(https://www.linkedin.com/in/achu-baiju-570314313/)]
 
 🚀 Keep Learning, Keep Growing!
