@@ -6,13 +6,35 @@ Hello! I'm a passionate **Full-Stack Web Developer** with expertise in **Node.js
 ---
 
 ## 💡 Skills & Interests
-- 🔹 **Web Development**: JavaScript, Node.js, Express.js, EJS, MVC Pattern  
-- 🔹 **Databases**: MongoDB (Aggregation, Queries)  
-- 🔹 **Frontend**: HTML, CSS, JavaScript  
-- 🔹 **Backend**: REST APIs, Authentication, Sessions, Multer (File Uploads)  
-- 🔹 **Version Control**: Git, GitHub  
-- 🔹 **Deployment & Cloud**: AWS, Vercel, Netlify (Optional)  
-- 🔹 **Testing**: Jest, Mocha (Optional)  
+
+### 🔹 Web Development
+- JavaScript (ES6+), TypeScript
+- Node.js, Express.js, NestJS
+- Angular, Angular Material, RxJS, NgRx
+- EJS, MVC Architecture
+
+### 🔹 Frontend
+- HTML5, CSS3, JavaScript
+- Responsive Design, DOM Manipulation
+- Angular Router, Reactive Forms
+
+### 🔹 Databases
+- MongoDB (CRUD, Aggregation, Relationships)
+- Mongoose
+- Basic SQL
+
+### 🔹 Version Control & DevOps
+- Git, GitHub
+- Deployment: Vercel, Netlify, AWS EC2
+
+### 🔹 Tools & Platforms
+- Postman, MongoDB Compass
+- Visual Studio Code, Figma (UI Review)
+
+### 🔹 Soft Skills & Work Style
+- Agile Practices: Stand-ups, Code Reviews, Sprints
+- Problem-Solving, Debugging, Communication
+- Experience with real-world industrial projects
 
 ---
 
