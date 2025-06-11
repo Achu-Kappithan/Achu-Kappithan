@@ -39,12 +39,28 @@ Hello! I'm a passionate **Full-Stack Web Developer** with expertise in **Node.js
 ---
 
 ## 🏆 Project Experience  
-### ✅ **E-commerce Site for Cricket Accessories**  
-A full-featured e-commerce platform for cricket equipment, including:  
-- **User Panel**: Product browsing, cart management, authentication, order processing.  
-- **Admin Panel**: Product management, user control, coupon handling, and dashboard analytics.  
-- **Tech Stack**: Node.js, Express.js, MongoDB, EJS, Bootstrap, Multer, Sessions.  
-- **Challenges & Solutions**: Implemented efficient **search functionality** and **cart management logic** to enhance UX.  
+
+✅ **E-commerce Website for Cricket Accessories**  
+Built a complete e-commerce platform with user and admin functionalities.  
+**Tech Stack**: Node.js, Express.js, MongoDB, EJS, Bootstrap  
+- User panel with cart, wishlist, Razorpay payments, and order tracking  
+- Admin dashboard for managing products, categories, offers, and reports
+
+---
+
+🚧 **Recruitment Platform (Main Project – Ongoing)**  
+A role-based job recruitment system with admin, company, and candidate sides.  
+**Tech Stack**: Angular, NestJS, Node.js, MongoDB  
+- Candidate resume uploads, ATS filtering, multi-level interview flow  
+- Role-based access for HR and interviewers
+
+---
+
+📘 **UMS Application (Mini Project)**  
+User management system with full CRUD and profile picture support.  
+**Tech Stack**: Angular, Node.js (TypeScript), MongoDB  
+- NgRx for state management and REST API integration
+
 
 ---
 
